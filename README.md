@@ -1,2 +1,1 @@
-# jakeseifert.github.io
-repo for github page
+This site is currently under construction.
